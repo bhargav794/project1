@@ -1,2 +1,2 @@
 # createyourbirthdaymagicsquare
-[link](https://createyourbirthdaymagicsquare.web.app)
+[check it out here](https://createyourbirthdaymagicsquare.web.app)
